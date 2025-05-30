@@ -1,0 +1,28 @@
+.circle-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #f0f9ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+}
+
+.info-icon {
+    color: #00d0ff;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.modal-content {
+    border-radius: 12px;
+    padding: 20px 10px;
+}
+
+.modal-body button {
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 6px 30px;
+}
