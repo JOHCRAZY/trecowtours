@@ -1,0 +1,8 @@
+# Ignore Docker and Docker Compose files
+docker-compose.yml
+Dockerfile
+docker-compose.override.yml
+.dockerignore
+vendor/*
+logs
+*main-local.php
